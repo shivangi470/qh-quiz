@@ -1,0 +1,33 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box; overflow-x: hidden;
+}
+.header{
+    width: 100%; 
+    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.2)),url('../img/back.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    
+}
+
+.navbar{
+    background-color:  #6a5acd;
+    
+}
+
+footer{
+    background-color:#6a5acd ;
+}
+.conn{
+    widows: 500px;
+    
+}
+.conn li a{
+    color:black;
+    text-decoration: none;
+
+}
+.btn{
+    background-color: #ffc107;
+    ;
+}
